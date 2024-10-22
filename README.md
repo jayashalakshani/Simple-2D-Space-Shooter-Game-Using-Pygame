@@ -21,7 +21,7 @@ Open Spyder: Launch the Spyder IDE.
 
 ## Open the Code
 
-Click on File > Open and select the space_shooter.py file you created.
+Click on File > Open and select the test.py file you created.
 ## Run the Game
 
 Click the green play button (or press F5) to run the script.
